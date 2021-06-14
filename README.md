@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
   <a href="https://www.linkedin.com/in/isabelle--carvalho" target="_blank" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+  <a href="http://lattes.cnpq.br/1745858093283632" target="_blank" alt="Linkedin">
+  <img src="http://img.shields.io/badge/-CVLattes-808080?style=flat-square&logo=scala&logoColor=white&link=LINK-DO-SEU-CV" /></a>
 </p><br>
 <strong>Esse é o foco ⤵</strong><br><br>
 <p> 
