@@ -14,7 +14,7 @@
 <strong>Esse é o foco ⤵</strong><br><br>
 <p> 
   <img src="https://user-images.githubusercontent.com/8505960/121899938-3f8d1400-ccfb-11eb-9b41-d21453ce3235.png" width="70px" height="70px" align='left' />
-  Ciência de dados aplicada à Saúde.<br>
+  Ciência de Dados Aplicada à Saúde.<br>
   Ferramentas de Apoio à Decisão Clínica.<br>
   Telemedicina.<br>
 </p>
